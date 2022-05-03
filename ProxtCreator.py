@@ -6,6 +6,8 @@ from os import system
 
 freeproxycreator = """               
 Created by: ! Kontragerilla ღ ヅ#1019 Ver: 1.0
+And
+Electronic Hands
 """
 CREATE_LIST = False
 
